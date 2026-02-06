@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Репетитор по английскому онлайн — Кирилл Юнишев</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Онлайн репетитор по английскому языку. Индивидуальные занятия — 1000 рублей / 45 минут. Запись через Telegram.">
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #f4f6f8;
+            color: #333;
+        }
+        header {
+            background: linear-gradient(135deg, #1e3c72, #2a5298);
+            color: white;
+            padding: 60px 20px;
+            text-align: center;
+        }
+        section {
+            max-width: 900px;
+            margin: 40px auto;
+            background: white;
+            padding: 30px 20px;
+            border-radius: 12px;
+        }
+        h1, h2 {
+            margin-top: 0;
+        }
+        .price {
+            font-size: 34px;
+            font-weight: bold;
+            color: #27ae60;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        .btn {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 14px 30px;
+            background: #27ae60;
+            color: white;
+            text-decoration: none;
+            border-radius: 8px;
+            font-size: 16px;
+        }
+        .btn:hover {
+            background: #219150;
+        }
+        footer {
+            text-align: center;
+            padding: 25px;
+            color: #777;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Кирилл Юнишев</h1>
+    <p>Онлайн-репетитор по английскому языку</p>
+</header>
+
+<section>
+    <h2>Об онлайн-занятиях</h2>
+    <p>
+        Провожу индивидуальные онлайн-занятия по английскому языку для школьников
+        и взрослых. Помогаю улучшить разговорный английский, грамматику
+        и уверенность в языке.
+    </p>
+    <ul>
+        <li>Индивидуальный подход</li>
+        <li>Разговорная практика</li>
+        <li>Понятное объяснение грамматики</li>
+        <li>Онлайн формат (Zoom / Skype)</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Стоимость</h2>
+    <p class="price">1000 рублей / 45 минут</p>
+    <p>Индивидуальное онлайн-занятие</p>
+</section>
+
+<section>
+    <h2>Запись на занятия</h2>
+    <p>
+        Напишите мне в Telegram, чтобы договориться о времени занятия:
+    </p>
+    <p>
+        📱 Телефон: <strong>+7 983 307-99-89</strong><br>
+        💬 Telegram: <strong>@k_yunishev</strong>
+    </p>
+
+    <a href="https://t.me/k_yunishev" class="btn">Написать в Telegram</a>
+</section>
+
+<footer>
+    © 2026 Кирилл Юнишев — онлайн репетитор по английскому языку
+</footer>
+
+</body>
+</html>
